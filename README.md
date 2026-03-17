@@ -65,3 +65,5 @@ This project simulates real-world business decision-making by combining data ana
 It demonstrates how data can be used to drive revenue growth and improve customer targeting.
 
 ---
+## 📂 Dataset Note
+Raw dataset files are excluded due to size constraints. Processed data is included for analysis and dashboard.
