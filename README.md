@@ -50,13 +50,13 @@ Analyze e-commerce transaction data to drive data-driven decision making, improv
 ## 📸 Dashboard Preview
 
 ### 🔹 Overview Dashboard
-![Dashboard 1](dashboard1.png)
+![Dashboard 1](assets/dashboard1.png)
 
 ### 🔹 Product & Revenue Insights
-![Dashboard 2](dashboard2.png)
+![Dashboard 2](assets/dashboard2.png)
 
 ### 🔹 Customer Segmentation & Recommendations
-![Dashboard 3](dashboard3.png)
+![Dashboard 3](assets/dashboard3.png)
 
 ---
 
