@@ -1,0 +1,7 @@
+1. Top 10 customers contribute a significant portion of total revenue.
+
+2. Revenue shows variation across months indicating seasonal trends.
+
+3. A small number of products generate most of the revenue.
+
+4. Many products have very low sales, indicating potential inventory inefficiency.
